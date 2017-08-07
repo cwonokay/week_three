@@ -1,0 +1,83 @@
+
+body {
+  display: flex;
+  justify-content: center;
+
+}
+h1{
+  display: flex;
+  justify-content: center;
+  color:#48D1CC;
+  font-style: italic;
+  font-size: 70px;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  width: 355px;
+	padding: 20px 30px 20px;
+	background: linear-gradient(#ED0BCF,#48D1CC);
+	border-radius: 5px;
+}
+
+.squares{
+  border: 1px solid ;
+  width: 88px;
+  height: 80px;
+  border-radius: 3px;
+}
+
+.row {
+  height: 100px;
+  display: flex;
+  box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.5);
+}
+
+div{
+  text-align: center;
+  font-size: 55px;
+  color: white;
+}
+
+#C {
+    background-color:;
+}
+
+#C:hover{
+  background-color: purple;
+}
+
+#addition {
+  background-color:#BA55D3;
+}
+#addition:hover {
+background-color: purple;
+}
+
+#subraction {
+    background-color: #BA55D3;
+}
+#subraction:hover {
+background-color: purple;
+}
+
+#multiplie {
+  background-color: #BA55D3;
+}
+#multiplie:hover {
+background-color: purple;
+}
+
+#divison {
+    background-color: #BA55D3;
+}
+#divison:hover {
+background-color: purple
+}
+#equal{
+background-color: ;
+}
+#equal:hover {
+background-color: purple
+}
